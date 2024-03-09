@@ -18,6 +18,7 @@ def predict():
         year=int(request.form['year'])
         quarter=int(request.form['quarter'])
         
+        
     
     
     else:
