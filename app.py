@@ -12,6 +12,14 @@ def home():
     return render_template("index.html")
 
 
+@app.route('/predict', methods=['GET', 'POST'])
+def predict():
+    if request.method == 'POST':
+        pass
+    
+    
+    else:
+        return render_template("prediction.html")
 
 
 if __name__ == "__main__":
