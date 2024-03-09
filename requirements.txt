@@ -1,4 +1,4 @@
 flask
 numpy
 joblib
-sklearn
+scikit-learn
