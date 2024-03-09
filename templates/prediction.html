@@ -7,10 +7,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
-
-
     <title>Prediction Form</title>
     <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekJHJ_rBgd7rPwu8RHSQRE1ZKyVkPvpG7pa_I-A6tTA&s" type="image/x-icon">
 
@@ -58,10 +54,11 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
     <div class="mb-3">
         <label for="price" class="form-label"><b style="color: darkblue;">Which Year</b></label>
         <select class="form-select" id="price" name="price" required>
-            <option value="" disabled selected>Select a Year</option>
+            <option value="" disabled selected>--Select a Year--</option>
         </select>
     </div>
     
+
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             var selectElement = document.getElementById("price");
@@ -73,16 +70,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
                 option.value = year;
                 selectElement.add(option);
             }
-    
-            // Initialize Select2 plugin with search functionality
-            $('#price').select2({
-                theme: 'bootstrap4',
-                placeholder: 'Select a Year',
-                allowClear: true // optional, enables clearing the selection
-            });
         });
     </script>
-    
     
 
     <div class="mb-3">
@@ -97,7 +86,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
     </div>
 
 
-
+    
 
 </form>
 
