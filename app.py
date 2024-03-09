@@ -18,7 +18,7 @@ def predict():
         year=int(request.form['year'])
         gdp=float(request.form['gdp'])
         inflation=float(request.form['inflation'])
-        
+        ip=float(request.form['ip'])
         
     
     
