@@ -20,6 +20,8 @@ def predict():
         inflation=float(request.form['inflation'])
         ip=float(request.form['ip'])
         job=int(request.form['job'])
+        quarter = request.form['quarter']
+        if ()
         
     
     
