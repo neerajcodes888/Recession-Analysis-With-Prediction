@@ -16,6 +16,7 @@ def home():
 def predict():
     if request.method == 'POST':
         year=int(request.form['year'])
+        quarter=int(request.form['quarter'])
         
     
     
