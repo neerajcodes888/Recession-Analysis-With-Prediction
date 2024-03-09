@@ -38,7 +38,8 @@ def predict():
         else:
             prediction="Recession won't  happen by your given circumstances"
             
-        
+        scaler =StandardScaler()
+        data = scaler.transform()
         
         return render_template("prediction.html", prediction_text="{}".format(prediction))
     
