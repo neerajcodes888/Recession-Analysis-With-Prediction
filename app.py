@@ -1,8 +1,6 @@
 from flask import Flask, request, render_template
 import joblib
 import numpy as np
-from sklearn.preprocessing import StandardScaler
-
 app = Flask(__name__)
 
 model = joblib.load('Recession_Model')
@@ -30,17 +28,13 @@ def predict():
             quarter=3
         else:
             quarter=4
-         
-        scaler =StandardScaler()
-        data = scaler.transform([[year,quarter,gdp,inflation,ip,job]])    
-        prediction = model.predict(data)
+            
+        prediction = model.predict([[year,quarter,gdp,inflation,ip,job]])
         
         if(prediction == 1):
             prediction="Recession will  happen by your given circumstances"
         else:
             prediction="Recession won't  happen by your given circumstances"
-            
-  
         
         return render_template("prediction.html", prediction_text="{}".format(prediction))
     
