@@ -21,7 +21,12 @@ def predict():
         ip=float(request.form['ip'])
         job=int(request.form['job'])
         quarter = request.form['quarter']
-        if ()
+        if (quarter=='First Quarter'):
+            quarter=1
+        elif(quarter=='Second Quarter'):
+            quarter=2
+        elif(quarter=='Third Quarter'):
+            quarter=3
         
     
     
