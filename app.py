@@ -27,6 +27,9 @@ def predict():
             quarter=2
         elif(quarter=='Third Quarter'):
             quarter=3
+        else:
+            quarter=4
+            
         
     
     
