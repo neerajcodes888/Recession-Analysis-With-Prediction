@@ -30,7 +30,7 @@ def predict():
             quarter=3
         else:
             quarter=4
-            
+        scaler = StandardScaler()    
         new_data_scaled = scaler.transform([[year,quarter,gdp,inflation,ip,job]])
         prediction = model.predict()
         
