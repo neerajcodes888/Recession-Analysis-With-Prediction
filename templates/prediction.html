@@ -52,9 +52,12 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
 
 
     <div class="mb-3">
-        <label for="price" class="form-label"><b style="color: darkblue;">which Year</b></label>
-        <input type="number" class="form-control" id="price" name="price" placeholder="Enter Current Price" min="1950" max="2050" required>
+        <label for="price" class="form-label"><b style="color: darkblue;">Which Year</b></label>
+        <select class="form-select" id="price" name="price" required>
+            <option value="" disabled selected>Select a Year</option>
+        </select>
     </div>
+    
 
     <div class="mb-3">
         <label for="fuel" class="form-label"><b style="color: darkblue;">Which Quarter</b></label>
