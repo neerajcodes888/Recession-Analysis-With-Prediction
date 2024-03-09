@@ -59,6 +59,19 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
     </div>
     
 
+    document.addEventListener("DOMContentLoaded", function() {
+        var selectElement = document.getElementById("price");
+    
+        // Generate options for years from 1950 to 2050
+        for (var year = 1950; year <= 2050; year++) {
+            var option = document.createElement("option");
+            option.text = year;
+            option.value = year;
+            selectElement.add(option);
+        }
+    });
+    
+
     <div class="mb-3">
         <label for="fuel" class="form-label"><b style="color: darkblue;">Which Quarter</b></label>
         <select class="form-select" id="fuel" name="fuel" aria-label="Fuel Type" required>
