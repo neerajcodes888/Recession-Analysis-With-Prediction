@@ -19,6 +19,7 @@ def predict():
         gdp=float(request.form['gdp'])
         inflation=float(request.form['inflation'])
         ip=float(request.form['ip'])
+        job=int(request.form['job'])
         
     
     
