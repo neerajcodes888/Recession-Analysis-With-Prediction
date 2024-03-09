@@ -30,9 +30,8 @@ def predict():
             quarter=3
         else:
             quarter=4
-        scaler = StandardScaler()    
-        data = scaler.transform([year,quarter,gdp,inflation,ip,job])
-        prediction = model.predict(data)
+            
+        prediction = model.predict([[year,quarter,gdp,inflation,ip,job]])
         
         if(prediction == 1):
             prediction="Recession will  happen by your given circumstances"
