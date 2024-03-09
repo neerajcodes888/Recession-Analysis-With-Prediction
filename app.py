@@ -17,7 +17,8 @@ def predict():
     if request.method == 'POST':
         year=int(request.form['year'])
         gdp=float(request.form['gdp'])
-        inflation=
+        inflation=float(request.form['inflation'])
+        
         
     
     
