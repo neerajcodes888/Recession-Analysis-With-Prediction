@@ -33,7 +33,9 @@ def predict():
         prediction = model.predict[[year,quarter,gdp,inflation,ip,job]]
         
         if(prediction == 1):
-            prediction=""
+            prediction="Recession will  happen by your given circumstances"
+        else:
+            prediction="Recession won't  happen by your given circumstances"
     
     
     else:
