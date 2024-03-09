@@ -21,10 +21,10 @@
         }
         body{
           background: rgb(34,193,195);
-background: -moz-radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
-background: -webkit-radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endColorstr="#bdfd2d",GradientType=1);
+          background: -moz-radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
+          background: -webkit-radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
+          background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endColorstr="#bdfd2d",GradientType=1);
         }
     </style>
 </head>
@@ -61,7 +61,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            var selectElement = document.getElementById("price");
+            var selectElement = document.getElementById("year");
     
             // Generate options for years from 1950 to 2050
             for (var year = 1950; year <= 2050; year++) {
@@ -103,10 +103,10 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
 
 
     <div class="mb-3">
-        <label for="job" class="form-label"><b style="color: darkblue;">Jobs in Market</b></label>
-        <input type="number" class="form-control" id="job" name="job" placeholder="Enter Jobs in Market" min="10000" max="100000" required>
+        <label for="job" class="form-label"><b style="color: darkblue;">Kilometers Driven</b></label>
+        <input type="number" class="form-control" id="job" name="job" placeholder="Kilometers Driven" min="10000" max="100000" required>
     </div>
-    <button type="submit" class="btn btn-primary">Predict</button>
+    <button type="submit" class="btn btn-primary btn-floating animate__animated animate__bounce">Predict</button>
 </form>
 
 </body>
