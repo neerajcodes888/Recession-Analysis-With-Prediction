@@ -30,7 +30,7 @@ def predict():
         else:
             quarter=4
             
-        
+        prediction = model.predict[[]]
     
     
     else:
