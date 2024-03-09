@@ -52,8 +52,18 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
 
 
     <div class="mb-3">
-        <label for="price" class="form-label"><b style="color: darkblue;">Enter Year</b></label>
+        <label for="price" class="form-label"><b style="color: darkblue;">which Year</b></label>
         <input type="number" class="form-control" id="price" name="price" placeholder="Enter Current Price" min="1950" max="2050" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="fuel" class="form-label"><b style="color: darkblue;">Which Quarter</b></label>
+        <select class="form-select" id="fuel" name="fuel" aria-label="Fuel Type" required>
+            <option value="" disabled selected>-- Select Quarter --</option>
+            <option value="First Quarter">CNG</option>
+            <option value="diesel">Diesel</option>
+            <option value="petrol">Petrol</option>
+        </select>
     </div>
 
 </form>
