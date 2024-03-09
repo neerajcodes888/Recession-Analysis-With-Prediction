@@ -32,6 +32,8 @@ def predict():
             
         prediction = model.predict[[year,quarter,gdp,inflation,ip,job]]
         
+        if(prediction == 1):
+            prediction=""
     
     
     else:
