@@ -37,8 +37,7 @@ def predict():
             prediction="Recession won't  happen by your given circumstances"
         
         return render_template("prediction.html", prediction_text="{}".format(prediction))
-    
-    
+      
     else:
         return render_template("prediction.html")
 
