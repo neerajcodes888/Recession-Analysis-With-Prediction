@@ -61,4 +61,5 @@ pip install -r requirements.txt
 Feel free to contribute to this project by forking the repository and submitting pull requests with your enhancements!
 
 ## License
-This Project is under [MIT License]()
+This Project is under [CCO 1.0](https://github.com/neerajcodes888/Recession-Analysis-With-Prediction/blob/main/LICENSE)
+
