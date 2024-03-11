@@ -49,4 +49,9 @@ git clone https://github.com/neerajcodes888/recession-analysis.git
 ```bash
 cd recession-analysis
 ```
+### Install the required dependencies.
+```bash
+pip install -r requirements.txt
+```
+
 
