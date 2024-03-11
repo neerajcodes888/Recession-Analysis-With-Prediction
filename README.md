@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Current Economic Data](#economic-data)
+- [Current Economic Data](#current-economic-data)
 - [Future Scope](#future-scope)
 - [Vision](#vision)
 - [Deployed Link](#deployed-link)
