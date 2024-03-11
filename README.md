@@ -48,7 +48,7 @@ To get a glimpse of how the project works and its capabilities, check out our vi
 | Jobs in Market     | 10000 to 100000      | 👥 Input number of jobs within the range of 10000 to 100000. |
 
 
-## Model-Accuracy
+## Model Accuracy
 
 | Models                   | Accuracy |
 |--------------------------|----------|
