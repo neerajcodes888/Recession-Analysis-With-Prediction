@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Economic Data](#economic-data)
+- [Current Economic Data](#economic-data)
 - [Future Scope](#future-scope)
 - [Vision](#vision)
 - [Deployed Link](#deployed-link)
@@ -18,7 +18,7 @@
 ## Introduction 🌟
 This project aims to analyze historical economic data to predict recessions using machine learning techniques. By leveraging various algorithms and statistical methods, we've developed a model that can forecast economic downturns with reasonable accuracy. Additionally, we've deployed this model for easy access and visualization.
 
-## Economic Data 
+## Current Economic Data 
 
 #### Current Ecocnomic Data of India , Q1 2024
 
