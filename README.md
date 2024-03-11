@@ -26,7 +26,7 @@ Our vision is to provide policymakers, economists, and businesses with a reliabl
 
 ## Deployed Link
 The project is deployed on Render for easy access. You can access the deployed model through the following link:
-[Recession Analysis and Prediction](https://www.recession-analysis.com)
+[Recession Analysis and Prediction](https://recession-guess.onrender.com/)
 
 ## Video Demo
 To get a glimpse of how the project works and its capabilities, check out our video demo:
