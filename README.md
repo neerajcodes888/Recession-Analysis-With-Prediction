@@ -1,6 +1,6 @@
 # Recession Analysis and Prediction Project 📉🔮
 
-![recession](https://media.istockphoto.com/id/1356239664/vector/economics-recession-crashed-stock-loss-trading.jpg?s=612x612&w=0&k=20&c=fe-pjmtl_prH_KNJa3Kvvf34jnvOi_yWAIJXintvZ80=)
+![recession](https://c1.wallpaperflare.com/preview/634/496/50/refugees-economic-migrants-financial-equalization-help.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
