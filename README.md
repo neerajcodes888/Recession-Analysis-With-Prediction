@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Economic Data](#economic-data)
+- [Economic Data (India)](#economic-data)
 - [Future Scope](#future-scope)
 - [Vision](#vision)
 - [Deployed Link](#deployed-link)
