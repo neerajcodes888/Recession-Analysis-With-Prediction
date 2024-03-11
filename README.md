@@ -33,6 +33,9 @@ The project is deployed on Render for easy access. You can access the deployed m
 ## Video Demo
 To get a glimpse of how the project works and its capabilities, check out our video demo:
 
+![recession](https://github.com/neerajcodes888/Recession-Analysis-With-Prediction/assets/98253646/89ac1c3a-28a1-4b25-8fbc-48ff753ce0d0)
+
+
 
 ## Requirements
 To run this project locally, ensure you have the following dependencies installed:
