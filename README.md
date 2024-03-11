@@ -42,12 +42,12 @@ To run this project locally, ensure you have the following dependencies installe
 ## Installations
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/neerajcodes888/recession-analysis.git
+git clone https://github.com/neerajcodes888/Recession-Analysis-With-Prediction.git
 ```
 
 ### Navigate to the project directory.
 ```bash
-cd recession-analysis
+cd Recession-Analysis-With-Prediction
 ```
 ### Install the required dependencies.
 ```bash
