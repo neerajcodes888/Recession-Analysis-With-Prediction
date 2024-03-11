@@ -48,6 +48,17 @@ To get a glimpse of how the project works and its capabilities, check out our vi
 | Jobs in Market     | 10000 to 100000      | 👥 Input number of jobs within the range of 10000 to 100000. |
 
 
+## Model-Accuracy
+
+| Models                   | Accuracy |
+|--------------------------|----------|
+| Logistic Regression     | 88.44    |
+| RandomForest Classifier | 100.00   |
+| Decision Tree Classifier| 100.00   |
+| KNN                      | 86.56    |
+| SVC                      | 88.44    |
+
+
 ## Requirements 📋
 To run this project locally, ensure you have the following dependencies installed:
 - Flask==2.0.1
