@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Economic Data](#economic-data)
 - [Future Scope](#future-scope)
 - [Vision](#vision)
 - [Deployed Link](#deployed-link)
