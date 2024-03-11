@@ -1,6 +1,6 @@
 # Recession Analysis and Prediction Project 📉🔮
 
-![Recession-Analysis-With-Prediction](https://socialify.git.ci/neerajcodes888/Recession-Analysis-With-Prediction/image?description=1&descriptionEditable=Recession%20Analysis%20with%20Prediction%20%3A%20A%20driven%20approach%20to%20understand%20%20%20and%20forecast%20economic%20downturns.%20&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+![recession](https://media.istockphoto.com/id/1356239664/vector/economics-recession-crashed-stock-loss-trading.jpg?s=612x612&w=0&k=20&c=fe-pjmtl_prH_KNJa3Kvvf34jnvOi_yWAIJXintvZ80=)
 
 ## Table of Contents
 - [Introduction](#introduction)
