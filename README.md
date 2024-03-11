@@ -24,7 +24,7 @@ The project has immense potential for expansion and improvement. Some future enh
 - Expanding analysis to include regional or sector-specific recessions.
 
 ## Vision
-Our vision is to provide policymakers, economists, and businesses with a reliable tool for anticipating recessions and making informed decisions to mitigate their impact. By harnessing the power of machine learning and data analysis, we strive to contribute to economic stability and resilience.
+Vision is to provide policymakers, economists, and businesses with a reliable tool for anticipating recessions and making informed decisions to mitigate their impact. By harnessing the power of machine learning and data analysis, we strive to contribute to economic stability and resilience.
 
 ## Deployed Link
 The project is deployed on Render for easy access. You can access the deployed model through the following link:
