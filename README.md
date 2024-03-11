@@ -18,7 +18,7 @@
 ## Introduction 🌟
 This project aims to analyze historical economic data to predict recessions using machine learning techniques. By leveraging various algorithms and statistical methods, we've developed a model that can forecast economic downturns with reasonable accuracy. Additionally, we've deployed this model for easy access and visualization.
 
-## Economic Data 
+## Economic Data (India)
 
 | Indicator(Indian)        | Value (Latest)       |
 |--------------------|----------------------|
