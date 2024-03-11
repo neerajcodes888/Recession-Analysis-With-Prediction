@@ -20,7 +20,7 @@ This project aims to analyze historical economic data to predict recessions usin
 
 ## Economic Data 
 
-| Indicator          | Value (Latest)       |
+| Indicator(Indian)        | Value (Latest)       |
 |--------------------|----------------------|
 | GDP                | $4.112 trillion      |
 | Unemployment Rate  | 3.1%                 |
