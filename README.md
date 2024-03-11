@@ -18,6 +18,17 @@
 ## Introduction 🌟
 This project aims to analyze historical economic data to predict recessions using machine learning techniques. By leveraging various algorithms and statistical methods, we've developed a model that can forecast economic downturns with reasonable accuracy. Additionally, we've deployed this model for easy access and visualization.
 
+## Economic Data 
+
+| Indicator              | Value (Latest) |
+|------------------------|----------------|
+| GDP                    | $4.112 trillion |
+| Unemployment Rate      | 3.1%           |
+| Inflation Rate         | 5.1%           |
+| GDP Growth   | 6.1         |
+| Exchange Rate          | 1 USD = 82.75 INR  |
+| Forex Reserves | $619.07 billion |
+
 ## Future Scope 🔍
 The project has immense potential for expansion and improvement. Some future enhancements could include:
 - Incorporating more sophisticated machine learning models for better predictions.
