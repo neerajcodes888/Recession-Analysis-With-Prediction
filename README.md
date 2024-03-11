@@ -50,13 +50,16 @@ To get a glimpse of how the project works and its capabilities, check out our vi
 
 ## Model Accuracy
 
-| Models                   | Accuracy |
-|--------------------------|----------|
-| Logistic Regression     | 88.44    |
-| RandomForest Classifier | 100.00   |
-| Decision Tree Classifier| 100.00   |
-| KNN                      | 86.56    |
-| SVC                      | 88.44    |
+## Model Accuracy of Machine Learning Models
+
+| Models                   | Description           | Accuracy |
+|--------------------------|-----------------------|----------|
+| Logistic Regression     | Logistic Regression model | 88.44    |
+| RandomForest Classifier | RandomForest Classifier model | 100.00   |
+| Decision Tree Classifier| Decision Tree Classifier model | 100.00   |
+| KNN                      | K-Nearest Neighbors model | 86.56    |
+| SVC                      | Support Vector Classifier model | 88.44    |
+
 
 
 ## Requirements 📋
