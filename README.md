@@ -54,4 +54,8 @@ cd recession-analysis
 pip install -r requirements.txt
 ```
 
+## Usage
+- Explore the Jupyter Notebooks for data analysis, model training, and evaluation.
+- Use the deployed link to access the model online for real-time predictions.
+Feel free to contribute to this project by forking the repository and submitting pull requests with your enhancements!
 
