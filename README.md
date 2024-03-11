@@ -29,7 +29,7 @@ This project aims to analyze historical economic data to predict recessions usin
 | Exchange Rate      | 1 USD = 82.75 INR    |
 | Forex Reserves     | $619.07 billion      |
 
-## Description
+### Description
 
 - **GDP (Gross Domestic Product)**: The total monetary value of all goods and services produced within a country's borders in a specific time period, usually annually or quarterly. [Source: IMF]
 
@@ -43,7 +43,7 @@ This project aims to analyze historical economic data to predict recessions usin
 
 - **Forex Reserves (Foreign Exchange Reserves)**: The foreign currency deposits and bonds held by central banks and monetary authorities. They serve as a buffer to stabilize the domestic currency and ensure liquidity in the foreign exchange market. [Source: IMF]
 
-## Sources
+### Sources
 
 - [IMF (International Monetary Fund)](https://www.imf.org)
 - [Forbes](https://www.forbes.com)
