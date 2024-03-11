@@ -8,7 +8,7 @@
 - [Vision](#vision)
 - [Deployed Link](#deployed-link)
 - [Video Demo](#video-demo)
-- [Model Accuracy](*model-accuracy)
+- [Model Accuracy](#model-accuracy)
 - [Requirements](#requirements)
 - [Installations](#installations)
 - [Usage](#usage)
