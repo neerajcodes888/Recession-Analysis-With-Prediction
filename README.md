@@ -35,6 +35,16 @@ To get a glimpse of how the project works and its capabilities, check out our vi
 
 ![recession](https://github.com/neerajcodes888/Recession-Analysis-With-Prediction/assets/98253646/89ac1c3a-28a1-4b25-8fbc-48ff753ce0d0)
 
+### Usability Terms
+
+| Field              | Range                | Instructions               |
+|--------------------|----------------------|----------------------------|
+| Select year        | 1950 to 2050         | 📅 Input a year within the specified range (1950-2050).        |
+| Quarter            | First to Fourth Quarter | 🕒 Select a quarter from First to Fourth Quarter.            |
+| GDP Growth         | 0 to 10              | 💰 Input GDP growth rate within the range of 0 to 10.       |
+| Inflation Rate     | 0 to 20              | 💹 Input inflation rate within the range of 0 to 20.       |
+| Industrial Production | -5 to 5            | 🏭 Input industrial production within the range of -5 to 5.  |
+| Jobs in Market     | 10000 to 100000      | 👥 Input number of jobs within the range of 10000 to 100000. |
 
 
 ## Requirements
