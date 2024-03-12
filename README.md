@@ -22,7 +22,7 @@ This project aims to analyze historical economic data to predict recessions usin
 
 #### Current Ecocnomic Data of India , Q1 2024
 
-| Indicator(Indian)        | Value (Latest)       |
+| Indicator        | Value (Latest)       |
 |--------------------|----------------------|
 | GDP                | $4.112 trillion      |
 | Unemployment Rate  | 3.1%                 |
